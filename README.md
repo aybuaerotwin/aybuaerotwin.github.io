@@ -1,6 +1,6 @@
 # AeroTwin – Aircraft Material & Maintenance Atlas
 
-**Live demo:** https://huseyinsahi.github.io/aerotwin/
+**Live demo:** https://aybuaerotwin.github.io/
 
 AeroTwin is an interactive, browser-based 3D aircraft atlas for aircraft maintenance education. Students explore a passenger aircraft part by part, see which material each part is made of and why, and practise maintenance and inspection procedures step by step on the 3D model.
 
